@@ -1,6 +1,6 @@
 # CS50's Introduction to Computer Science
 ## HarvardX - CS50x
-### Week 2 Problem Set - Mario.c/More
+### Week 2 Problem Set - Mario.c
 <hr>
 
 
