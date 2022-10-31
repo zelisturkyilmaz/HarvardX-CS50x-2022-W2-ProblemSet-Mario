@@ -38,3 +38,17 @@ Height: 4
  ###  ###
 ####  ####
 ```
+
+#### Compiling And Execution:
+
+Before execution of the program, it must be compiled with a compiler, translating it from source code into machine code.\
+Execute the command below in the Command Line to do that:
+
+```C
+make mario
+```
+
+Execute the program by executing the below:
+```C
+./mario
+```
